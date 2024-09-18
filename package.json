@@ -1,0 +1,28 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "Lab 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "nodemon ./index.js localhost 8081"
+  },
+  "keywords": [
+    "sample",
+    "js",
+    "node"
+  ],
+  "author": {
+    "name": "Pritesh Patel",
+    "email": "sample@gb.ca"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
+
+
+
+
+
